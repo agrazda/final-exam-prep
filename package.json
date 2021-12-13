@@ -1,0 +1,23 @@
+{
+  "name": "final-exam-prep",
+  "version": "1.0.0",
+  "description": "## Linked List",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrazda/final-exam-prep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrazda/final-exam-prep/issues"
+  },
+  "homepage": "https://github.com/agrazda/final-exam-prep#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
